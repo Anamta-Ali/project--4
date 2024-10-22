@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.resume {
+    border:7px solid rgb(153, 3, 153);
+    padding: 20px;
+    border-radius: 10px;
+    width: 200;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    margin: 5px 0;
+}
